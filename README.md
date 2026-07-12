@@ -1,7 +1,7 @@
-### 21-Day-Log
+# 21-Day-Log
 ## My first coding journal
 
-# Day-0
+### Day-0
 
 Tasks to finish by Day-21 i.e., August 2 2026:
 1. React Course
